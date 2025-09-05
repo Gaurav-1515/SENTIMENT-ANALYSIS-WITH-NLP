@@ -16,7 +16,7 @@ with open(cleaned_path, "w", encoding="utf-8") as f:
     f.write("\n".join(cleaned_lines))
 df = pd.read_csv(cleaned_path, sep=",", engine="python")
 df.columns = ["Text", "Sentiment", "Source", "DateTime", "UserID", "Location", "Confidence"]
-print("✅ Dataset Loaded Successfully")
+print("Dataset Loaded Successfully")
 print(df.head())
 plt.figure(figsize=(6,4))
 sns.countplot(x="Sentiment", data=df, palette="Set2")
