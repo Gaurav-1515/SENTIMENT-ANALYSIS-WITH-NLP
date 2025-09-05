@@ -19,3 +19,6 @@ This project classifies feedback as **Positive** or **Negative** after cleaning 
 ## 📂 Project Structure  
     │── 📄 sentiment-analysis.csv
     │── 📄 task2.py
+## OUTPUT
+<img width="1919" height="1136" alt="Image" src="https://github.com/user-attachments/assets/483799ae-8dde-4265-a84e-29e1cb22adbc" />
+<img width="1919" height="1137" alt="Image" src="https://github.com/user-attachments/assets/30220c6f-9e2b-4cb2-9aca-0769d71d6581" />
