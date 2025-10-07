@@ -1,4 +1,17 @@
 # 📝 Customer Feedback Sentiment Analysis  
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : GAURAV PANDEY
+
+INTERN ID : CT04DY1426
+
+DOMAIN : MACHINE LEARNING
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+# 📝 Customer Feedback Sentiment Analysis  
 
 A Machine Learning project to perform **Sentiment Analysis** on customer reviews using **TF-IDF Vectorization** and **Logistic Regression**.  
 This project classifies feedback as **Positive** or **Negative** after cleaning and preprocessing the text data.  
